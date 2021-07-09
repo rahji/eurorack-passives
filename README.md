@@ -18,6 +18,4 @@ Labels and graphics are up to you, but I've included PDFs and AIs for each of th
 
 ---
 
-¹ Except for the Passive 5 Switch Diode Fuzz, which is 1.124". Sorry, but it will probably still work under the 1.5" architectural angle.
-
-² The traces on the boards are all on the bottom layer, but practically it makes sense to have them fabricated as 2-layer boards. If you want to mill them as single-layer boards yourself, and you're willing to be creative with your soldering, you could do it.
+¹ The traces on the boards are all on the bottom layer, but practically it makes sense to have them fabricated as 2-layer boards. If you want to mill them as single-layer boards yourself, and you're willing to be creative with your soldering, you could do it.
